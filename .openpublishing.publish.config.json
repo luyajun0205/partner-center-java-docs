@@ -5,9 +5,7 @@
       "build_source_folder": ".",
       "build_output_subfolder": "partner-center-java-docs",
       "locale": "en-us",
-      "monikers": [
-        "partnercenter-java-latest"
-      ],
+      "monikers": [],
       "moniker_ranges": ["partnercenter-java-latest"],
       "open_to_public_contributors": true,
       "type_mapping": {
