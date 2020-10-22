@@ -12,7 +12,8 @@
           "**/obj/**",
           "**/includes/**"
         ],
-        "version": "partnercenter-java-latest"
+        "version": "partnercenter-java-latest",
+        "group": "partnercenter"
       },
       {
         "files": [
@@ -24,7 +25,8 @@
           "**/obj/**",
           "**/includes/**"
         ],
-        "version": "partnercenter-java-latest"
+        "version": "partnercenter-java-latest",
+        "group": "partnercenter"
       },
       {
         "files": [
@@ -33,7 +35,8 @@
         ],
         "src": "docs-ref-conceptual",
         "dest": "partnercenter",
-        "version": "partnercenter-java-latest"
+        "version": "partnercenter-java-latest",
+        "group": "partnercenter"
       },
       {
         "files": [
@@ -48,7 +51,8 @@
           "ThirdPartyNotices",
           "docs-ref-autogen"
         ],
-        "version": "partnercenter-java-latest"
+        "version": "partnercenter-java-latest",
+        "group": "partnercenter"
       },
       {
         "files": [
@@ -58,6 +62,7 @@
         "src": "docs-ref-autogen",
         "dest": "api",
         "version": "partnercenter-java-latest",
+        "group": "partnercenter",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -71,6 +76,7 @@
         "src": "docs-ref-autogen",
         "dest": "api/partnercenter-java",
         "version": "partnercenter-java-latest",
+        "group": "partnercenter",
         "exclude": [
           "**/obj/**",
           "**/includes/**"
@@ -91,6 +97,12 @@
     ],
     "overwrite": [],
     "externalReference": [],
+    "groups": {
+      "partnercenter": {
+        "dest": "partnercenter-java-latest",
+        "moniker_range": "partnercenter-java-latest"
+      }
+    },
     "versions": {
       "partnercenter-java-latest": {
         "dest": "partnercenter-java-latest"
