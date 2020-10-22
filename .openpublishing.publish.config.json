@@ -8,7 +8,7 @@
       "monikers": [
         "partnercenter-java-latest"
       ],
-      "moniker_ranges": [],
+      "moniker_ranges": ["partnercenter-java-latest"],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
