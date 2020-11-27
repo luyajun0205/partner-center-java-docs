@@ -6,7 +6,7 @@ description: Getting started with the Partner Center SDK for Java.
 # Get started with development using the Partner Center SDK
 
 This guide walks you through setting up a development environment. You will then create a customer and an order to perform some basic tasks, like assigning licenses or querying Azure utilization records. When you are done, you will be ready to start using the SDK in your own Java applications.
-sunny test update103
+sunny test update104
 
 ## Prerequisites
 
